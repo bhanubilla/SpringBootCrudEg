@@ -10,6 +10,8 @@ public class SpringBootCrudEgApplication {
 		SpringApplication.run(SpringBootCrudEgApplication.class, args);
 		System.out.println("sys line");
 		System.out.println("second line");
+		System.out.println("bhanu line");
+		
 
 		
 	}
