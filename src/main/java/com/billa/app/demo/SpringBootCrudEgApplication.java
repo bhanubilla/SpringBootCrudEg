@@ -8,6 +8,7 @@ public class SpringBootCrudEgApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootCrudEgApplication.class, args);
+		System.out.println("sys line");
 	}
 
 }
